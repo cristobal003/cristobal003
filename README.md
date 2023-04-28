@@ -23,5 +23,5 @@ Aquí te presento algunos de los proyectos en los que he trabajado recientemente
 - [Nombre del proyecto](enlace al repositorio en GitHub): Descripción del proyecto y tu rol en el mismo.
 
 ## Contáctame
-![](https://i.pinimg.com/originals/e8/72/ca/e872cad228d790ba8fb63bb40056a208.gif)
+![](https://i.pinimg.com/originals/e8/72/ca/e872cad228d790ba8fb63bb40056a208.gif) 
 Si deseas ponerte en contacto conmigo, mi correo es gonzalezpallarescristobal@gmail.com
