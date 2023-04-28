@@ -1,27 +1,34 @@
-<!-# Hola, soy Cristóbal González Pallarés 👋
+### Hola, soy Cristóbal González Pallarés 👋
 
 ## Sobre mí
 ![](https://blog.zoho.com/wp-content/uploads/2019/05/cliq-projects-integration-blog.gif)
 Soy un entusiasta de la tecnología y me encanta aprender cosas nuevas. Actualmente, me estoy enfocando en desarrollar mis habilidades en base de datos Oracle, CSS, HTML, JavaScript, Java y administración de sistemas operativos.
 
 ## Mis habilidades
-| Habilidad | Icono |
-| --- | --- |
-| Base de datos Oracle | [<img src="https://i.imgur.com/08pWc1j.png" width="30">](https://www.oracle.com/database/) |
-| CSS | [<img src="https://i.imgur.com/tPyd6rH.png" width="30">](https://developer.mozilla.org/es/docs/Web/CSS) |
-| HTML | [<img src="https://i.imgur.com/yo3niX5.png" width="30">](https://developer.mozilla.org/es/docs/Web/HTML) |
-| JavaScript | [<img src="https://i.imgur.com/iXQ6fJe.png" width="30">](https://developer.mozilla.org/es/docs/Web/JavaScript) |
-| Java | [<img src="https://i.imgur.com/Y35ZlCR.png" width="30">](https://www.java.com/es/) |
-| Sistemas operativos Windows y Linux | [<img src="https://i.imgur.com/f3smjP3.png" width="30">](https://www.microsoft.com/en-us/windows) [<img src="https://i.imgur.com/vwq3zjB.png" width="30">](https://www.linux.org/) |
-| Modelio | [<img src="https://i.imgur.com/Uj2g2x6.png" width="30">](https://www.modelio.org/) |
-| GitHub | [<img src="https://i.imgur.com/rzHRnJv.png" width="30">](https://github.com/) |
+| Habilidad |
+| --- |
+| Base de datos Oracle |
+| CSS |
+| HTML |
+| JavaScript |
+| Java |
+| Sistemas operativos Windows y Linux |
+| Modelio |
+| GitHub |
+
+## Mis Estadisticas de GitHub
+<img src="https://github-readme-stats.vercel.app/api?username=cristobal003&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="cristobal003 Github Stats">
+
 ## Mis proyectos
 
 Aquí te presento algunos de los proyectos en los que he trabajado recientemente:
 
-- [Nombre del proyecto](enlace al repositorio en GitHub): Descripción del proyecto y tu rol en el mismo.
-- [Nombre del proyecto](enlace al repositorio en GitHub): Descripción del proyecto y tu rol en el mismo.
+- Una aplicación de gestión de tareas para equipos de desarrollo. 
+- Un sistema de seguimiento de recursos para empresas. 
 
 ## Contáctame
-![](https://i.pinimg.com/originals/e8/72/ca/e872cad228d790ba8fb63bb40056a208.gif){width=400px}
-Si deseas ponerte en contacto conmigo, mi correo es gonzalezpallarescristobal@gmail.com
+<a href="https://www.linkedin.com/in/cristobal" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/cristobal" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.facebook.com/cristobal" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+<a href="https://open.spotify.com/user/cristobal" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
+<a href="https://dev.to/cristobal" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
