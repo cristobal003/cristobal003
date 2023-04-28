@@ -5,7 +5,7 @@
 Soy un entusiasta de la tecnología y me encanta aprender cosas nuevas. Actualmente, me estoy enfocando en desarrollar mis habilidades en base de datos Oracle, CSS, HTML, JavaScript, Java y administración de sistemas operativos.
 
 ## Mis habilidades
-
+![](https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 - Base de datos Oracle
 - CSS
 - HTML
@@ -16,12 +16,12 @@ Soy un entusiasta de la tecnología y me encanta aprender cosas nuevas. Actualme
 - GitHub
 
 ## Mis proyectos
-
+![](https://blog.zoho.com/wp-content/uploads/2019/05/cliq-projects-integration-blog.gif)
 Aquí te presento algunos de los proyectos en los que he trabajado recientemente:
 
 - [Nombre del proyecto](enlace al repositorio en GitHub): Descripción del proyecto y tu rol en el mismo.
 - [Nombre del proyecto](enlace al repositorio en GitHub): Descripción del proyecto y tu rol en el mismo.
 
 ## Contáctame
-
-Si deseas ponerte en contacto conmigo, puedes encontrarme en [LinkedIn](enlace a tu perfil de LinkedIn) o en mi correo electrónico: [tu correo electrónico aquí](mailto:tu_correo_electrónico@ejemplo.com).
+![](https://i.pinimg.com/originals/e8/72/ca/e872cad228d790ba8fb63bb40056a208.gif)
+Si deseas ponerte en contacto conmigo, mi correo es gonzalezpallarescristobal@gmail.com
