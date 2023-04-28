@@ -15,16 +15,6 @@ Soy un entusiasta de la tecnología y me encanta aprender cosas nuevas. Actualme
 | Sistemas operativos Windows y Linux | [<img src="https://i.imgur.com/f3smjP3.png" width="30">](https://www.microsoft.com/en-us/windows) [<img src="https://i.imgur.com/vwq3zjB.png" width="30">](https://www.linux.org/) |
 | Modelio | [<img src="https://i.imgur.com/Uj2g2x6.png" width="30">](https://www.modelio.org/) |
 | GitHub | [<img src="https://i.imgur.com/rzHRnJv.png" width="30">](https://github.com/) |
-
-- Base de datos Oracle
-- CSS
-- HTML
-- JavaScript
-- Java
-- Sistemas operativos Windows y Linux
-- Modelio
-- GitHub
-
 ## Mis proyectos
 
 Aquí te presento algunos de los proyectos en los que he trabajado recientemente:
