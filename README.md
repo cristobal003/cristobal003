@@ -27,4 +27,4 @@ Aquí te presento algunos de los proyectos en los que he trabajado recientemente
 - Un sistema de seguimiento de recursos para empresas. 
 
 ## Contáctame
-<a href="www.linkedin.com/in/cristóbal-gonzález-pallarés-0717072a4" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/cristóbal-gonzález-pallarés-0717072a4" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
